@@ -13,7 +13,8 @@ export default function Footer(){
         <div className="md:col-span-2"><p className="text-[8px] tracking-[0.4em] opacity-30 mb-5">SHOP BY RITUAL</p><div className="flex flex-col gap-2.5 text-[10px] tracking-[0.2em] opacity-70"><Link href="/shop">FOCUS</Link><Link href="/shop">CALM</Link><Link href="/shop">BOLD</Link><Link href="/shop">EARTH</Link><Link href="/shop">REFILLS</Link></div></div>
         <div className="md:col-span-4"><p className="text-[8px] tracking-[0.4em] opacity-30 mb-5">KENDWA, ZANZIBAR</p><div className="aspect-[4/3] bg-[#3C2415] border border-white/10 overflow-hidden"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.5!2d39.12!3d-5.92!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sKendwa%2C%20Zanzibar!5e0!3m2!1sen!2stz!4v1700000000000" width="100%" height="100%" style={{border:0,filter:'grayscale(1) invert(0.9) sepia(0.2)'}} allowFullScreen loading="lazy"/></div></div>
       </div>
-      <div className="border-t border-white/10 max-w-[1280px] mx-auto px-6 md:px-12 py-5 flex justify-between text-[8px] tracking-[0.3em] opacity-30"><p>© 2026 LUNA CANDLES — KENDWA, ZANZIBAR</p><p>STRIPE • M-PESA • VISA</p></div>
+      <div className="border-t border-white/10 max-w-[1280px] mx-auto px-6 md:px-12 py-5 flex justify-between text-[8px] tracking-[0.3em] opacity-30"><p>© 2026 LUNA CANDLES — KENDWA, ZANZIBAR</p><p>Website designer <a href="https://wa.me/256700568634" target="_blank" rel="noopener noreferrer" className="font-bold underline underline-offset-4">Xoucho10</a></p></div>
     </footer>
   )
 }
+
